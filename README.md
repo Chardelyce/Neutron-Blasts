@@ -1,10 +1,9 @@
-# Neutron-Blasts
-========================================================================================================================================
+
 Your mission is to shoot the alien ufos and shoot any meteors that get in your way  take even one part of a damage and its game over ,   +
 
 (This is the very first version of this application   it is still under work so a lot of features and certain functions are not finished +
 yet)
-========================================================================================================================================
+
 
 Todos’s : 
 •	Bug fixing 
@@ -18,7 +17,7 @@ Todos’s :
 
 
 
-=======================================================================================================================================
+
 How to install:
 
 First go to releases and download the newest release 
@@ -46,5 +45,4 @@ It may come across as that that is something I am going to have to fix next demo
 Yes scaling the image up seems to have degraded it next release I will fix it 
 
 
-=====================================================================================================================================
 
