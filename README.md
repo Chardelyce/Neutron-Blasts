@@ -1,16 +1,13 @@
+![image](https://user-images.githubusercontent.com/63970461/140591651-3ac0940c-dae0-41f6-80a8-b2b46020b32f.png)
 
-![image](https://user-images.githubusercontent.com/63970461/140264624-5a9fee62-d41e-4c1e-b14d-b3d97366516a.png)
 
-
-![image](https://user-images.githubusercontent.com/63970461/140264667-3647c70a-bf2f-468a-b532-2e822d1f46b9.png)
-
-![image](https://user-images.githubusercontent.com/63970461/140265000-b8b02f49-00c7-4cb6-8423-f2a04172e61f.png)
+![image](https://user-images.githubusercontent.com/63970461/140591565-6fdeafaf-255d-4344-bb99-d0e713204ddd.png)
+![image](https://user-images.githubusercontent.com/63970461/140591580-2b276614-9612-44da-92c4-d5763a466891.png)
 
 
 Your mission is to shoot the alien ufos and shoot any meteors that get in your way  take even one part of a damage and its game over ,   +
 
-(This is the very first version of this application   it is still under work so a lot of features and certain functions are not finished +
-yet)
+(second demo ver! soem graphics are not finalized yet !)
 
 
 Todos’s : 
@@ -18,11 +15,11 @@ Todos’s :
 •	Story mode 
 •	Ability to play as other characters (i.e carl , sheen, ultralord, cindy )
 •	Switch music , music playlist  in game 
-•	Fix high score menu 
 
 
 
-based on the tutorial from :https://github.com/andevindo/space-shooter-asthe tutorial from 
+
+based on https://github.com/marcosy/android-space-invaders
 
 
 
@@ -46,11 +43,9 @@ FAQs:
 
 I am hoping it wouldn’t do that and im working on it ^^;;;
 
-2.	The app does not have an app name ?
-It may come across as that that is something I am going to have to fix next demo ver 
 
-3.	Bad image quality ?
-Yes scaling the image up seems to have degraded it next release I will fix it 
+
+
 
 
 
