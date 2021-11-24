@@ -1,18 +1,17 @@
-![image](https://user-images.githubusercontent.com/63970461/140591651-3ac0940c-dae0-41f6-80a8-b2b46020b32f.png)
+![smooths](https://user-images.githubusercontent.com/63970461/143177774-5c582b02-b683-4c4b-bc14-8a0271a45c7c.png)
 
 
-![image](https://user-images.githubusercontent.com/63970461/140591565-6fdeafaf-255d-4344-bb99-d0e713204ddd.png)
-![image](https://user-images.githubusercontent.com/63970461/140591580-2b276614-9612-44da-92c4-d5763a466891.png)
+![mission](https://user-images.githubusercontent.com/63970461/143177732-ec0d0243-c3e0-4842-b539-b7764ec3d600.png)
+![nxtlvl](https://user-images.githubusercontent.com/63970461/143177744-a82c1aaa-7ad8-420e-a0d5-972b0c635f9e.png)
 
 
-Your mission is to shoot the alien ufos and shoot any meteors that get in your way  take even one part of a damage and its game over ,   +
+Your mission is to shoot the aliens and the evil clone take even one part of a damage and its game over ,   +
 
-(second demo ver! soem graphics are not finalized yet !)
+(1 of 3 final demo versions ...some graphics are not finalized yet !)
 
 
 Todos’s : 
 •	Bug fixing 
-•	Story mode 
 •	Ability to play as other characters (i.e carl , sheen, ultralord, cindy )
 •	Switch music , music playlist  in game 
 
